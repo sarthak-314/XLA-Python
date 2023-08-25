@@ -1,4 +1,5 @@
-<img src="./docs/assets/XLA Python Logo.png" width=800>
+<img src="docs /assets/Logo.png" width=800>
+
 
 # XLA Python
 
